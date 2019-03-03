@@ -48,16 +48,16 @@ A levels:
 
 ## Employment History
 
-**Jellymould Creative** (2013 - 2019)    
+**Jellymould Creative** (2013 - 2019) 
 *UX Designer*
 
-**Cut a Shine Hoedown Collective** (2013 - 2019)
+**Cut a Shine Hoedown Collective** (2013 - 2019) 
 *Guitarist in ceilidh function band*
 
-**Freelance** (2008 - 2009, and 2012 - 2014)
+**Freelance** (2008 - 2009, and 2012 - 2014) 
 *Web designer and developer*
 
-**Sanderson Studios** (2009 - 2012)   
+**Sanderson Studios** (2009 - 2012) 
 *Visualiser*  
 
 **Circle 33 Housing Trust** (2003 - 2008)
