@@ -66,5 +66,7 @@ A levels:
 ## Interests
 
 I play American Old-Time music on guitar and mandolin, including in [The Old
-Time Wasters](http://theoldtimewasters.com) and [Cut a
+Time Wasters] and [Cut a
 Shine](http://www.cutashine.co.uk), a ceilidh function band.
+
+[The Old Time Wasters]:http://www.cutashine.co.uk{kk 
