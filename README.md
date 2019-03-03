@@ -1,4 +1,4 @@
-## Your Name
+## Paul Martin
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March to May 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,35 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cambridge University (1999 - 2002)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mathematics BA
+
+#### Dean Close School
+
+A levels:
+- Mathematics - A
+- Further Mathematics - A
+- Physics - A
+- Art & Design - A
 
 #### Any other qualifications
 
-## Experience
+## Employment History
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Jellymould Creative** (2013 - 2019)    
+*UX Designer*
+**Cut a Shine Hoedown Collective** (2013 - 2019)
+*Guitarist in ceilidh function band*
+**Freelance** (2008 - 2009, and 2012 - 2014)
+*Web designer and developer*
+**Sanderson Studios** (2009 - 2012)   
+*Visualiser*  
+**Circle 33 Housing Trust** (2003 - 2008)
+*Tenure Change Officer*
+
+## Interests
+
+I play American Old-Time music on guitar and mandolin, including in [The Old
+Time Wasters](http://theoldtimewasters.com) and [Cut a
+Shine](http://www.cutashine.co.uk), a ceilidh function band.
