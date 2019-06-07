@@ -10,11 +10,11 @@ I am currently training at Makers Academy, an intensive coding bootcamp, to put 
 
 | Project   | Description   | Technology  |
 |---|---|---|
+| [Raspberry Pi Weather Station](https://github.com/Hives/makers-weather-station) | Makers final project, working in an Agile team in the last two weeks of the course. We made a Raspberry Pi weather station sending data to a Node.js/Express/MongoDB API service. The data is retrieved by a single-page app along with data from a public weather API and presented in graph form. | Raspberry Pi, Python, Node.js, Express, MongoDB, Mocha, Jest, jQuery, ChartJS, Travis CI |
+| [Acebook](https://github.com/Hives/acebook-business-logic) | A Facebook clone made as an exercise in Agile teamwork. We focussed on knowledge-sharing within the team to be able to build an application in Rails in two weeks, with no previous experience of the framework. [Hosted on Heroku](https://acebook-business-logic.herokuapp.com/). | Ruby on Rails, Travis CI |
 | [Chitter](https://github.com/Hives/chitter-challenge) | Weekend project to build a Twitter clone. [Hosted on Heroku](https://hivemind-chitter.herokuapp.com/).| Ruby, RSpec/Capybara, DataMapper, PostgreSQL |
 | [Airport challange in Java](https://github.com/Hives/airport-challenge-java) | I repeated an earlier Ruby challenge in Java in order to practice test-driving something from scratch in a totally new language. | Java, JUnit, Maven, Mockito |
-| [Bowling scorecard](https://github.com/Hives/bowling-challenge) | I wrote five different algorithms for scoring a game of bowling while exploring this exercise. | JavaScript, Jasmine |
 | [News summary challenge](https://github.com/Hives/news-summary-challenge) | A single-page vanilla JavaScript app presenting news headlines drawn from the Guardian API, summarised using the Ayelian text summary API. I created my own test framework to TDD this - very fun! | JavaScript |
-| [Acebook](https://github.com/Hives/acebook-business-logic) | A Facebook clone made as an exercise in Agile teamwork, picking up Rails from scratch in two weeks. [Hosted on Heroku](https://acebook-business-logic.herokuapp.com/). | Ruby on Rails, Travis CI |
 
 ### Pre-Makers projects
 
@@ -37,11 +37,11 @@ All my projects at Makers have been test-driven, using a variety of frameworks i
 
 #### Collaboration
 
-Pair programming is a fundamental part of the Makers course, and is now integral to my idea of good teamwork. I believe good pairing is a great way to develop and share knowledge, increase engagement within a team, and write the best quality code. In my teamwork I have prioritised collaboration by setting up project wikis and encouraging team members to use them to share their learning, and by organising knowledge sharing workshops.
+Pair programming is a fundamental part of the Makers course, and is now integral to my idea of good teamwork. Pairing is a great way to develop and share knowledge, increase engagement within a team, and write the best quality code. In the teams I've worked in at Makers we have prioritised collaboration by setting up project wikis and encouraging team members to use them to share their learning, and by organising knowledge sharing workshops.
 
 #### Communication
 
-I have excellent communication skills, and am able to communicate complex ideas verbally and by diagramming. Throughout the Makers course I have received positive feedback from my pair partners about my ability to explain and break down programming concepts, and my patience when doing so. In my work for Jellymould I wrote detailed feature specifications for our developer to work on, which he said were clear and precise.
+Throughout the Makers course I have received positive feedback from my pair partners about my ability to explain and break down programming concepts, and my patience when doing so. In my work for Jellymould I wrote detailed feature specifications for our developer to work on, which he said were clear and precise.
 
 #### Methodical approach to problem solving
 
